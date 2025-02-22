@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Anochaakimbo
-- 👀 I’m interested in Network Infratructure
-- 🌱 I’m currently learning Information Technology
-- 📫 How to reach me Email: BBCORN123ZA@GMAIL.COM
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: AM POOR
+-  Hi, I’m @Anochaakimbo
+-  I’m interested in Network Infratructure
+-  I’m currently learning Information Technology
+-  Contact Email: bbcorn123za@gmail.com
+
 
 <!---
 Anochaakimbo/Anochaakimbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
