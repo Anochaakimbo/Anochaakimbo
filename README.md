@@ -1,7 +1,7 @@
 -  Hi, I’m @Anochaakimbo
 -  I’m interested in Network Infratructure
 -  I’m currently learning Information Technology
--  Contact Email: bbcorn123za@gmail.com
+-  Contact Email: anochach.47@gmail.com
 
 
 <!---
