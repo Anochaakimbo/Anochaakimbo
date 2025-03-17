@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ArNox</h1>
-<h3 align="center">A gay from Thailand</h3>
+<h3 align="center">A Junior from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anochaakimbo&label=Profile%20views&color=0e75b6&style=flat" alt="anochaakimbo" /> </p>
 
@@ -8,7 +8,7 @@
 ## 🎯 About Me
 - 🔭 I’m currently studying at **Khon Kaen University**  
 - 🌱 I’m currently learning to become a **Network Engineer**  
-- 👯 I’m interested in **Gay**  
+- 👯 I’m interested in Networking
 
 ---
 
