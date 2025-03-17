@@ -13,7 +13,7 @@
 ---
 
 ## 🔗 Connect with Me  
-*(ใส่ลิงก์ Social Media ตรงนี้ เช่น Facebook, Instagram, LinkedIn, GitHub, Email, ฯลฯ)*  
+
 
 ---
 
