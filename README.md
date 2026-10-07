@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anocha.ch](https://medium.com/@anocha.ch)
 
-- 📫 How to reach me **anocha200427@gmail.com**
+- 📫 How to reach me **anocha.ch2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
